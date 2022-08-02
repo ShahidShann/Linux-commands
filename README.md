@@ -1,6 +1,6 @@
 # Linux-commands
 Commenting linux commands
-few basic commands
+ok few basic commands
 
 ls:
 To display all files in directory.
